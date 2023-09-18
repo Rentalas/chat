@@ -1,0 +1,3 @@
+[submodule "chat-nodeJS"]
+	path = chat-nodeJS
+	url = https://github.com/Rentalas/chat-nodeJS.git
